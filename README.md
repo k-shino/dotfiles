@@ -7,6 +7,7 @@
 $ sudo apt-get update
 $ sudo apt-get install -y git
 $ git clone https://github.com/k-shino/unix-setup.git
+$ chmod +x ./unix-setup/unix-setup.sh
 $ ./unix-setup/unix-setup.sh
 $ source .bashrc
 $ git clone https://github.com/k-shino/dotfiles.git
