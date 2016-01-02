@@ -2,3 +2,8 @@
 	clean = git-lfs clean %f
 	smudge = git-lfs smudge %f
 	required = true
+[user]
+	name = Kenta Shinohara
+	email = nocknocknock@gmail.com
+[color]
+	ui = auto
