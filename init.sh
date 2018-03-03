@@ -1,5 +1,7 @@
 #! /bin/bash
 
+git clone https://github.com/k-shino/dotfiles.git
+
 ln -s ./dotfiles/.vim ~/.vim
 ln -s ./dotfiles/.vimrc ~/.vimrc
 ln -s ./dotfiles/.git ~/.git
