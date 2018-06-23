@@ -1,4 +1,4 @@
 let g:hybird_use_iTerm_colors = 1
-colorscheme hybrid
+colorscheme molokai
 syntax on
 set number
